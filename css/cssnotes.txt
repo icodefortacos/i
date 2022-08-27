@@ -1,0 +1,39 @@
+
+body {
+    color: red;
+}
+
+select = body
+property = color 
+value = red 
+; is required
+
+-------------
+inline and block elements
+display: inline;
+images stack like this:
+[img1] [img2] [img3]
+
+
+"Display block, stacks on top"
+display: block;
+[img1] ---------->
+[img2] ---------->
+[img3] ---------->
+Display block, blocks out the rest of the horizontal space
+So that nothing else could be placed there
+This is great for image homepage project. 
+
+
+margin-top: 100px;
+It increased space from image and top of browser view
+
+
+center image:
+img {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+

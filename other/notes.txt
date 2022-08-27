@@ -1,0 +1,13 @@
+a <div> is a container
+
+<a> anchor tags link to other pages
+<a href="https://www.google.com/" target="_blank">here</a>
+makes it open on a new browser tab
+
+
+HTML structure
+
+<head> 
+metadata such as styles, title, scripts, etc
+
+body, the tags you see on the page

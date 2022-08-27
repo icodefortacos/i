@@ -1,0 +1,8 @@
+body {
+    background: #800020;     /* red, blue, yellow, etc */
+    color: gold;             /* red, blue, yellow, etc */
+    font-size: 20px;        /* 0px - 100px and beyond */
+    font-weight: lighter;   /* lighter, normal, bold  T*/
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 5px;        /* From 0px and upwards   */
+}
